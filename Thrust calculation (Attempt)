@@ -1,0 +1,17 @@
+T = v*(dm/dt)
+  T=thrust
+  v=velocity
+  dm=change in mass
+  dt= change in time
+
+Find v:
+
+K.E. = (1/2)mv^2
+P.E.E. = Vq
+
+v = ((2Vq)/m)^-1/2
+m of N2 molecule = M/Avogadro = 0.028/6.022*10^23 = 4.65*10^-26
+V = 40000
+q = 1.6*10^-19
+
+v = ((2*40000*1.6*10^-19)/4.65*10^-26))^-1/2 = 524,661 m/s
